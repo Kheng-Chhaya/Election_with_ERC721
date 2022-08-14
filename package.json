@@ -3,6 +3,6 @@
 	"author": "Kheng Chhaya",
 	"description": "here is my election with ERC271 project",
 	"dependencies": {
-		"@openzeppelin/contracts": "^3.0.1"
+		"@openzeppelin/contracts": "^4.7.2"
 	}
 }
